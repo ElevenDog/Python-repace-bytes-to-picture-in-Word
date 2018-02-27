@@ -1,0 +1,59 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\users\cgf\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, c:\users\cgf\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named __builtin__ - imported by pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named StringIO - imported by docx.compat, PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, six, pkg_resources._vendor.six
+missing module named _scproxy - imported by urllib.request
+missing module named 'macholib.compat' - imported by macholib.MachO
+missing module named _pkgutil - imported by PyInstaller.lib.modulegraph.modulegraph
+missing module named xdis - imported by PyInstaller.lib.modulegraph._compat
+missing module named dis3 - imported by PyInstaller.lib.modulegraph._compat
+missing module named urllib.pathname2url - imported by urllib, PyInstaller.lib.modulegraph._compat
+missing module named PyQt5 - imported by PyInstaller.utils.hooks.qt
+missing module named pyimod00_crypto_key - imported by PyInstaller.loader.pyimod02_archive
+missing module named thread - imported by PyInstaller.loader.pyimod02_archive
+missing module named Crypto - imported by PyInstaller.building.makespec
+missing module named 'win32ctypes.pywin32' - imported by PyInstaller.compat
+missing module named win32ctypes - imported by PyInstaller.compat
+missing module named UserDict - imported by PyInstaller.compat
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named 'multiprocessing.forking' - imported by c:\users\cgf\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named resource - imported by posix, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named posix - imported by os, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named org - imported by pickle, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, PyInstaller.loader.pyimod02_archive, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named _winreg - imported by platform, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py, pkg_resources._vendor.appdirs
+missing module named java - imported by platform, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named vms_lib - imported by platform, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named termios - imported by tty, getpass, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named urllib.quote - imported by urllib, jinja2._compat
+missing module named grp - imported by shutil, tarfile, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, distutils.util, netrc, getpass, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named 'org.python' - imported by copy, xml.sax, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\cgf\Desktop\python\TxtChangeToPicture\test.py
+missing module named cStringIO - imported by cPickle, jinja2._compat
+missing module named copy_reg - imported by cPickle, cStringIO
+missing module named cPickle - imported by jinja2._compat
+missing module named fcntl - imported by asyncio.unix_events
+missing module named asyncio.DefaultEventLoopPolicy - imported by asyncio, asyncio.events
+missing module named 'markupsafe._speedups' - imported by markupsafe
+missing module named pretty - imported by jinja2.utils
+missing module named 'jinja2.debugrenderer' - imported by jinja2.debug
+missing module named __pypy__ - imported by jinja2.debug
